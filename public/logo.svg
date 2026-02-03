@@ -1,0 +1,7 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="120" height="120" rx="24" fill="#F9FAFB"/>
+  <circle cx="60" cy="42" r="20" fill="#2563EB"/>
+  <path d="M30 100C30 79.9086 45.9086 64 66 64H90C98.8366 64 106 71.1634 106 80V100H30Z" fill="#10B981"/>
+  <path d="M16 98C16 76.4609 33.4609 59 55 59H70C79.9411 59 88 67.0589 88 77V98H16Z" fill="#F59E0B" fill-opacity="0.9"/>
+  <text x="60" y="115" text-anchor="middle" font-size="12" fill="#1F2937" font-family="Inter, Arial">AHPC</text>
+</svg>

@@ -1,0 +1,5 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F9FAFB"/>
+  <rect x="60" y="60" width="680" height="480" rx="32" fill="#E2E8F0"/>
+  <text x="50%" y="50%" text-anchor="middle" fill="#1F2937" font-size="36" font-family="Inter, Arial" dy="0.35em">AHPC</text>
+</svg>
